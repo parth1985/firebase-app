@@ -1,0 +1,68 @@
+body {
+	background: #fff;
+	padding:0px;
+	margin:0px;
+	font-family:'Nunito',sans-serif;
+	width: 100%;
+	
+}
+
+input.button{
+
+    width:90%;
+    border:none;
+    background-color:black;
+    padding:10px;
+    font-size:16px;
+    cursor:pointer;
+    text-align:center;
+	font-weight:700;
+	text-align:center;
+	margin: auto;
+
+
+
+}
+
+.main-div,.loggedin-div{
+	width: 25px;
+	margin: 0px auto;
+	margin-top: 120px;
+	padding: 20px;
+	
+	
+}
+.main-div input{
+	
+	display: block;
+	border: 1px solid #ccc;
+	border-radius:5px;
+	background: #fff;
+	padding: 15px;
+	outline: none;
+	margin-bottom: 20px:
+
+}
+.main-div input:focus{
+		border: 1px solid #5d8ffc;
+		
+		
+}
+.main-div button:hover {
+	background: #fff;
+	color: #5d8ffc;
+	border: 1px solid #5d8ffc;
+	
+}
+.loggedin-div input:focus{
+		border: 1px solid #5d8ffc;
+		
+		
+}
+
+.loggedin-div button:hover {
+	background: #fff;
+	color: #5d8ffc;
+	border: 1px solid #5d8ffc;
+	
+}
